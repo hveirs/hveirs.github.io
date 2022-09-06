@@ -1,13 +1,20 @@
 ---
-title: "hveirs.github.io"
+title: "Hailey Veirs"
+image: ../../IMG_0428.JPG
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/hailey-veirs-6b540a223/
+    - text: GitHub
+      href: https://github.com/hveirs/hveirs.git
+    - text: Email
+      href: mailto:hveirs@bren.ucsb.edu
 ---
 
-This is a Quarto website.
+---
+# Introduction 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
-
-Trying to add more website details
+Hello! My name is Hailey Veirs, and I am a current Master of Environmental Data Science (MEDS) student at UCSB. 
