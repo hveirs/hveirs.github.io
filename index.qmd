@@ -1,20 +1,40 @@
 ---
 title: "Hailey Veirs"
-image: ../../IMG_0428.JPG
+image: images/Irvine_May2022.JPG
 about: 
   template: trestles
   image-shape: rounded
   image-width: 15em
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/hailey-veirs-6b540a223/
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/hveirs/hveirs.git
-    - text: Email
-      href: mailto:hveirs@bren.ucsb.edu
+    - icon: envelope
+      text: Email
+      href: mailto:hveirs3@outlook.com
 ---
 
----
-# Introduction 
+------------------------------------------------------------------------
 
-Hello! My name is Hailey Veirs, and I am a current Master of Environmental Data Science (MEDS) student at UCSB. 
+# Introduction
+
+Hello! My name is Hailey Veirs, and I am a current Master of Environmental Data Science (MEDS) student at UCSB.
+
+------------------------------------------------------------------------
+
+# Education
+
+**Master of Environmental Data Science**, Expected June 2023
+
+*Bren School of Environmental Science & Management, University of California, Santa Barbara*
+
+**B.S. in Earth System Science**, 2022
+
+*University of California, Irvine*
+
+------------------------------------------------------------------------
+
+# Data Science Experience
